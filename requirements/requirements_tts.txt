@@ -4,7 +4,7 @@ jieba
 kornia
 librosa
 matplotlib
-nemo_text_processing
+nemo_text_processing==0.1.8rc0
 nltk
 pandas
 pypinyin
